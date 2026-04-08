@@ -6,6 +6,9 @@
 ## Schemat skończonej płytki
 ![PCB](./images/copper_fill.png)
 
+## Schemat płytki bez wypełnienia miedzią
+![PCB_minus_copper](./images/board.png)
+
 ## Schematy obudów z własnej biblioteki
 | 1804(3314) | CN 15.1 | CN 15.2 |
 | :---: | :---: | :---: |
